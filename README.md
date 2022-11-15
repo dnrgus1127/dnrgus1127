@@ -2,7 +2,8 @@
 
 
 ### 
-- 🌱 I’m currently learning <a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=#HTML5&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=white"/></a>
+- 🌱 I’m currently learning 
 
  HTML/CSS/JavaScript , Express.js
 
