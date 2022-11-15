@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+### 
+- 🌱 I’m currently learning HTML/CSS/JavaScript , Express.js
+
+- 💬 Ask me about ...
+dnrgus1127@naver.com
+
+
 <!--
 **dnrgus1127/dnrgus1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
