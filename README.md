@@ -2,12 +2,14 @@
 
 
 ### 
-- 🌱 I’m currently learning ![html5](https://user-images.githubusercontent.com/65962363/201860851-0f826f0d-57c5-4fcc-8fa5-76df0b2dc3b5.svg)
+- 🌱 I’m currently learning <a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-#000000?style=flat&logo=#HTML5&logoColor=#E34F26"/></a>
+
  HTML/CSS/JavaScript , Express.js
 
 - 💬 Ask me about ...
 dnrgus1127@naver.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&show_icons=true&theme=radical)
 
 <!--
 **dnrgus1127/dnrgus1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
