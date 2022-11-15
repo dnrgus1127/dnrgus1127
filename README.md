@@ -2,7 +2,8 @@
 
 
 ### 
-- 🌱 I’m currently learning HTML/CSS/JavaScript , Express.js
+- 🌱 I’m currently learning ![html5](https://user-images.githubusercontent.com/65962363/201860851-0f826f0d-57c5-4fcc-8fa5-76df0b2dc3b5.svg)
+ HTML/CSS/JavaScript , Express.js
 
 - 💬 Ask me about ...
 dnrgus1127@naver.com
