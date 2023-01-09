@@ -14,6 +14,9 @@ dnrgus1127@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&theme=default&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnrgus1127&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **dnrgus1127/dnrgus1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
