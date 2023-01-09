@@ -11,8 +11,6 @@
 - 💬 Ask me about ..
 dnrgus1127@naver.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&show_icons=true&theme=radical)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&theme=dark&show_icons=true)
 
