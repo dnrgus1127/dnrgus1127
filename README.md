@@ -14,7 +14,7 @@ dnrgus1127@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&theme=default&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnrgus1127&repo=github-readme-stats)](https://github.com/dnrgus1127/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnrgus1127&repo=github-readme-stats)](https://github.com/dnrgus1127/dnrgus1127)
 
 
 <!--
