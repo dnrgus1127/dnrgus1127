@@ -8,7 +8,7 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/react-white?style=flat&logo=react&logoColor=00CAFF" style="height : 40px"/></a>
 - 🌱 I’m currently learning  HTML/CSS/JavaScript , Express.js
 
-- 💬 Ask me about ...
+- 💬 Ask me about ..
 dnrgus1127@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&show_icons=true&theme=radical)
