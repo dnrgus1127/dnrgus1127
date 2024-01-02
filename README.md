@@ -1,31 +1,27 @@
 
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26" style="height : 20px"/></a>
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6" style="height : 20px"/></a>
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/JAVASCRIPT-white?style=flat&logo=JAVASCRIPT&logoColor=F7DF1E" style="height : 20px"/></a>
-<!-- <a href="/" target="_blank"><img src="https://img.shields.io/badge/Express-white?style=flat&logo=Express&logoColor=000000" style="height : 40px"/></a> -->
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/react-white?style=flat&logo=react&logoColor=00CAFF" style="height : 20px"/></a>
--  I’m currently learning  HTML/CSS/JavaScript
+
+
+## Stack
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=javascript&logoColor=white">
+
+### 마크업
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=javascript&logoColor=white">
+
+### 디자인
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/styled component-DB7093?style=for-the-badge&logo=javascript&logoColor=white">
+
+## 학습 중이거나 사용해본적 있는 기술들
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=github&logoColor=white">
+
+
 
 - 💬 Ask me about ..
 dnrgus1127@naver.com
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnrgus1127&theme=default&show_icons=true) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dnrgus1127&repo=portfolio&theme=default)](https://github.com/dnrgus1127/portfolio)
-
-
-<!--
-**dnrgus1127/dnrgus1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
