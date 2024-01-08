@@ -1,5 +1,5 @@
 
-
+프론트엔드 개발자 정욱현입니다.
 
 ## Stack
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" >  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=javascript&logoColor=white">
